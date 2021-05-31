@@ -14,6 +14,7 @@ Disini terdapat soal berupa cryptograph dengan tipe base 64
 
 lalukan decode dengan menggunakan cyberchef agar lebih mudah dan cepat
 > https://gchq.github.io/CyberChef/
+
 dan lakukan bake beberapa kali hingga menemukan flag
 
 ![home page](./2.png)
