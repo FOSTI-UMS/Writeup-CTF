@@ -12,7 +12,9 @@ Could you find the AS number of main / default IP Transit / Internet Gateway pro
 ## Pembahasan
 mencari ASN atau Anonymous Number dari ISP utama UGM yaitu Telkom Indonesia
 
+![home page](./1.png)
 
+![home page](./2.png)
 
 ## Flag
 > AS7713
