@@ -3,3 +3,6 @@ Repository ini untuk membagikan pengalaman dan juga pelatihan terhadap CTF atau 
 
 ## Platform CTF
 > picoctf.org
+
+## Competition CTF
+> Find-IT UGM 2021
