@@ -7,6 +7,6 @@ Repository ini untuk membagikan pengalaman dan juga pelatihan terhadap CTF atau 
 > find-it UGM 2021
 
 ## Competition CTF
->> Find-IT UGM 2021
+> Find-IT UGM 2021
 
->> UIU CTF 2021
+> UIU CTF 2021
